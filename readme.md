@@ -10,3 +10,4 @@ fix #52
 
 
 resolve #100
+close #39
